@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quiz Herpétologique - Serpents de Suisse
 
 Ce projet propose un **quiz interactif** pour s'entraîner à reconnaître les serpents présents en Suisse. Il est basé sur des observations réelles issues de **[iNaturalist.org](https://www.inaturalist.org/)**. Toutes les images utilisées dans le quiz proviennent de cette plateforme et restent la propriété de leurs auteurs respectifs.  
