@@ -16,8 +16,3 @@ Ce projet propose un **quiz interactif** pour s'entraîner à reconnaître les s
 
 **TW:** les photos peuvent contenir des images d'animaux décédés 
 
-=======
-test ultime de vos connaissances herpétologiques sur les espèces Suisses
-
-https://nkulling.github.io/herpetoquizz_ch/
->>>>>>> 2c97b71452686e19a2fd2ae8783c1e24f557073d
